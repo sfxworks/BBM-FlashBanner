@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<main transitionTime="8000"> <!-- Tranistion time in miliseconds -->
+	<slide title="Wowie" link="https://www.youtube.com/watch?v=8FCGY3sR_pg&list=PL6akIKaXBeU0-vkYkTKZQC7wbMmx3aSCH" description="This looks really cool">../../../img/banner/bt_1.png</slide>
+	<slide title="Gee wiliers" link="https://www.youtube.com/watch?v=8FCGY3sR_pg&list=PL6akIKaXBeU0-vkYkTKZQC7wbMmx3aSCH" description="Wow wee this looks even cooler">../../../img/banner/icbm_3.png</slide>
+	<slide title="Oh my fu" link="https://www.youtube.com/watch?v=8FCGY3sR_pg&list=PL6akIKaXBeU0-vkYkTKZQC7wbMmx3aSCH" description="HOLYSHI-">../../../img/banner/wb_2.png</slide>
+
+	<!-- 
+	     All attributes optional.
+		 
+	     heading: Singleline header that displays at the bottom of the image
+		 link: Navigates _self to any url in or off the site
+		 description: Singleline text that displays under the heading
+		 
+		          (Required)
+		 <slide>[url to image]</slide>
+		 To add more slides, create another <slide> inside <main>.
+		-->
+</main>
